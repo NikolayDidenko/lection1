@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/nikolaydidenko/Desktop/lecture1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/lecture01_basics.dir/main.cpp.o -c /Users/nikolaydidenko/Desktop/lecture1/main.cpp",
+  "file": "/Users/nikolaydidenko/Desktop/lecture1/main.cpp",
+  "output": "CMakeFiles/lecture01_basics.dir/main.cpp.o"
+}
+]
