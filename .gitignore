@@ -1,2 +1,5 @@
-build
-.vscode
+.cmake/api/v1
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+compile_commands.json
